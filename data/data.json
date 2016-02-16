@@ -1,0 +1,66 @@
+[
+    {
+        "index": 1,
+        "title": "美人鱼",
+        "star": "40",
+        "link": "http://movie.douban.com/subject/19944106/?from=showing",
+        "rate": "7.3",
+        "picUrl": "http://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2316177058.jpg"
+    },
+    {
+        "index": 2,
+        "title": "澳门风云3 賭城風雲III",
+        "star": "20",
+        "link": "http://movie.douban.com/subject/26334559/?from=showing",
+        "rate": "4.1",
+        "picUrl": "http://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2309171908.jpg"
+    },
+    {
+        "index": 3,
+        "title": "西游记之孙悟空三打白骨精",
+        "star": "30",
+        "link": "http://movie.douban.com/subject/25827963/?from=showing",
+        "rate": "5.9",
+        "picUrl": "http://img3.douban.com/view/movie_poster_cover/mpst/public/p2315805100.jpg"
+    },
+    {
+        "index": 4,
+        "title": "高跟鞋先生",
+        "star": "30",
+        "link": "http://movie.douban.com/subject/26652816/?from=showing",
+        "rate": "5.9",
+        "picUrl": "http://img3.douban.com/view/movie_poster_cover/mpst/public/p2312412325.jpg"
+    },
+    {
+        "index": 5,
+        "title": "奔爱",
+        "star": "20",
+        "link": "http://movie.douban.com/subject/26637534/?from=showing",
+        "rate": "3.3",
+        "picUrl": "http://img3.douban.com/view/movie_poster_cover/mpst/public/p2312443555.jpg"
+    },
+    {
+        "index": 6,
+        "title": "功夫熊猫3 Kung Fu Panda 3",
+        "star": "40",
+        "link": "http://movie.douban.com/subject/11589036/?from=showing",
+        "rate": "8.0",
+        "picUrl": "http://img3.douban.com/view/movie_poster_cover/lpst/public/p2306653420.jpg"
+    },
+    {
+        "index": 7,
+        "title": "谋杀似水年华",
+        "star": "20",
+        "link": "http://movie.douban.com/subject/26263919/?from=showing",
+        "rate": "3.6",
+        "picUrl": "http://img3.douban.com/view/movie_poster_cover/mpst/public/p2313496805.jpg"
+    },
+    {
+        "index": 8,
+        "title": "年兽大作战",
+        "star": "30",
+        "link": "http://movie.douban.com/subject/26361479/?from=showing",
+        "rate": "5.9",
+        "picUrl": "http://img3.douban.com/view/movie_poster_cover/mpst/public/p2305489683.jpg"
+    }
+]
